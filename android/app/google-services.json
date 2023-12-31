@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132845230609",
+    "project_id": "zooplepro",
+    "storage_bucket": "zooplepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132845230609:android:903bd3ee6ceb4745b4efb0",
+        "android_client_info": {
+          "package_name": "com.example.filebase11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0_YhD8oI2B1bthqlCK2xb8D688sHmts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
